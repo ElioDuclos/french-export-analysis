@@ -90,6 +90,8 @@ def show_regional_analysis(filtered_data, regions_ref):
     fig_map.update_layout(
         title='Exportations par Région',
         geo_scope='europe',
+        height=800,  # Hauteur en pixels
+        width=1200   # Largeur en pixels
     )
     
     st.plotly_chart(fig_map, use_container_width=True)
