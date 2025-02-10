@@ -1,0 +1,576 @@
+0111;Céréales (à l'exclusion du riz), légumineuses et oléagineux;201501;999912
+0112;Riz, non décortiqué;201501;999912
+0113;Légumes et melons, racines et tubercules;201501;999912
+0114;Cannes à sucre;201501;999912
+0115;Tabac brut;201501;999912
+0116;Plantes textiles;201501;999912
+0119;Autres cultures non permanentes;201501;999912
+0121;Raisin;201501;999912
+0122;Fruits tropicaux et subtropicaux;201501;999912
+0123;Agrumes;201501;999912
+0124;Fruits à pépins et à noyau;201501;999912
+0125;Autres fruits d'arbres ou d'arbustes et fruits à coque;201501;999912
+0126;Fruits oléagineux;201501;999912
+0127;Plantes à boissons;201501;999912
+0128;Plantes à épices, aromatiques, médicinales et pharmaceutiques;201501;999912
+0129;Autres cultures permanentes;201501;999912
+0130;"Plants : plants de pépinière, bulbes, tubercules et rhizomes, boutures et greffons ; blanc de champignon";201501;999912
+0141;Vaches laitières, vivantes et lait de vache, brut;201501;999912
+0142;Autres bovins et buffles, vivants et leur sperme;201501;999912
+0143;Chevaux et autres équidés, vivants;201501;999912
+0144;Chameaux et autres camélidés, vivants;201501;999912
+0145;"Ovins et caprins, vivants ; lait de brebis et de chèvre brut, laine en suint et poils d'ovins et de caprins";201501;999912
+0146;Porcins, vivants;201501;999912
+0147;Volailles vivantes et œufs;201501;999912
+0149;Autres animaux d'élevage et produits d'origine animale;201501;999912
+0161;Services de soutien aux cultures;201501;999912
+0162;Services de soutien à la production animale;201501;999912
+0163;Traitement primaire des récoltes;201501;999912
+0164;Traitement des semences;201501;999912
+0170;Chasse, piégeage et services annexes;201501;999912
+0210;Arbres forestiers et services des pépinières;201501;999912
+0220;Bois brut;201501;999912
+0230;Autres produits forestiers;201501;999912
+0240;Services de soutien à l'exploitation forestière;201501;999912
+0300;"Produits de la pêche et de l'aquaculture ; services de soutien à la pêche";201501;999912
+0510;Houille;201501;999912
+0520;Lignite;201501;999912
+0610;Pétrole brut;201501;999912
+0620;Gaz naturel, liquéfié ou gazeux;201501;999912
+0710;Minerais de fer;201501;999912
+0721;Minerais d'uranium et de thorium;201501;999912
+0729;Autres minerais métalliques;201501;999912
+0811;Pierres ornementales ou de construction, calcaire industriel, gypse, craie et ardoise;201501;999912
+0812;Sables et granulats, argiles et kaolin;201501;999912
+0891;Minéraux chimiques et engrais minéraux;201501;999912
+0892;Tourbe;201501;999912
+0893;"Sel et chlorure de sodium pur ; eau de mer";201501;999912
+0899;Autres produits des industries extractives n.c.a.;201501;999912
+0910;Services de soutien à l'extraction d'hydrocarbures;201501;999912
+0990;Services de soutien aux autres industries extractives;201501;999912
+1011;Viandes de boucherie et produits d'abattage;201501;999912
+1012;Viandes de volailles;201501;999912
+1013;Produits à base de viande;201501;999912
+1020;Préparations et conserves à base de poisson et de produits de la pêche;201501;999912
+1031;Préparations et conserves à base de pommes de terre;201501;999912
+1032;Jus de fruits et légumes;201501;999912
+1039;Autres préparations et conserves à base de fruits et légumes;201501;999912
+1041;Huiles et graisses;201501;999912
+1042;Margarines et graisses comestibles similaires;201501;999912
+1051;Produits laitiers et fromages;201501;999912
+1052;Glaces et sorbets;201501;999912
+1061;Produits du travail des grains;201501;999912
+1062;Produits amylacés;201501;999912
+1071;"Pain ; pâtisseries et viennoiseries fraîches";201501;999912
+1072;"Biscottes et biscuits ; pâtisseries de conservation";201501;999912
+1073;Pâtes alimentaires;201501;999912
+1081;Sucre;201501;999912
+1082;Cacao, chocolat et produits de confiserie;201501;999912
+1083;Café et thé transformés;201501;999912
+1084;Condiments et assaisonnements;201501;999912
+1085;Plats préparés;201501;999912
+1086;Aliments homogénéisés et diététiques;201501;999912
+1089;Autres produits alimentaires n.c.a.;201501;999912
+1091;Aliments pour animaux de ferme;201501;999912
+1092;Aliments pour animaux de compagnie;201501;999912
+1101;Boissons alcoolisées distillées;201501;999912
+1102;Vins de raisin;201501;999912
+1103;Cidre et autres vins de fruits;201501;999912
+1104;Autres boissons fermentées non distillées;201501;999912
+1105;Bière;201501;999912
+1106;Malt;201501;999912
+1107;"Boissons rafraîchissantes ; eaux minérales et autres eaux en bouteille";201501;999912
+1200;Produits à base de tabac;201501;999912
+1310;Fils et filés;201501;999912
+1320;Tissus;201501;999912
+1330;Ennoblissement textile;201501;999912
+1391;Étoffes à maille;201501;999912
+1392;Articles textiles confectionnés, sauf habillement;201501;999912
+1393;Tapis et moquettes;201501;999912
+1394;Ficelles, cordes et filets;201501;999912
+1395;Non-tissés et articles en non-tissés, sauf habillement;201501;999912
+1396;Autres textiles techniques et industriels;201501;999912
+1399;Autres textiles n.c.a.;201501;999912
+1411;Vêtements en cuir;201501;999912
+1412;Vêtements de travail;201501;999912
+1413;Autres vêtements de dessus;201501;999912
+1414;Vêtements de dessous;201501;999912
+1419;Autres vêtements et accessoires;201501;999912
+1420;Articles en fourrure;201501;999912
+1431;Articles chaussants à mailles;201501;999912
+1439;Autres articles à mailles;201501;999912
+1511;"Cuirs et peaux tannés et apprêtés ; peaux apprêtées et teintées";201501;999912
+1512;Articles de voyage, de maroquinerie, de sellerie et de bourrellerie;201501;999912
+1520;Chaussures;201501;999912
+1610;Bois, sciés et rabotés;201501;999912
+1621;Panneaux et placages à base de bois;201501;999912
+1622;Parquets assemblés;201501;999912
+1623;Autres éléments de menuiserie et de charpente;201501;999912
+1624;Emballages en bois;201501;999912
+1629;"Autres objets en bois ; objets en liège, vannerie et sparterie";201501;999912
+1711;Pâte à papier;201501;999912
+1712;Papier et carton;201501;999912
+1721;Papier et carton ondulés et emballages en papier ou en carton;201501;999912
+1722;Articles en papier à usage sanitaire ou domestique;201501;999912
+1723;Articles de papeterie;201501;999912
+1724;Papiers peints;201501;999912
+1729;Autres articles en papier ou en carton;201501;999912
+1811;Impression de journaux;201501;999912
+1812;Autres travaux d'impression;201501;999912
+1813;Travaux de préparation d'impression;201501;999912
+1814;Reliure et services connexes;201501;999912
+1820;Reproduction d'enregistrements;201501;999912
+1910;Produits de la cokéfaction;201501;999912
+1920;Produits du raffinage du pétrole;201501;999912
+2011;Gaz industriels;201501;999912
+2012;Colorants, pigments et agents tannants;201501;999912
+2013;Autres produits chimiques inorganiques de base;201501;999912
+2014;Autres produits chimiques organiques de base;201501;999912
+2015;Engrais et composés azotés;201501;999912
+2016;Matières plastiques sous formes primaires;201501;999912
+2017;Caoutchouc synthétique sous formes primaires;201501;999912
+2020;Pesticides et autres produits agrochimiques;201501;999912
+2030;Peintures, vernis et revêtements similaires, encres d'imprimerie et mastics;201501;999912
+2041;Savons, détergents et produits d'entretien;201501;999912
+2042;Parfums et produits pour la toilette;201501;999912
+2051;Produits explosifs;201501;999912
+2052;Colles;201501;999912
+2053;Huiles essentielles;201501;999912
+2059;Autres produits chimiques n.c.a.;201501;999912
+2060;Fibres artificielles ou synthétiques;201501;999912
+2110;Produits pharmaceutiques de base;201501;999912
+2120;Préparations pharmaceutiques;201501;999912
+2211;"Pneumatiques ; rechapage et resculptage de pneumatiques";201501;999912
+2219;Autres produits en caoutchouc;201501;999912
+2221;Plaques, feuilles, tubes et profilés en matières plastiques;201501;999912
+2222;Emballages en matières plastiques;201501;999912
+2223;Éléments en matières plastiques pour la construction;201501;999912
+2229;Autres produits en matières plastiques;201501;999912
+2311;Verre plat;201501;999912
+2312;Verre plat travaillé;201501;999912
+2313;Verre creux;201501;999912
+2314;Fibres de verre;201501;999912
+2319;Autres articles en verre travaillé, y compris verre technique;201501;999912
+2320;Produits réfractaires;201501;999912
+2331;Carreaux et dalles en céramique;201501;999912
+2332;Tuiles, briques et produits de construction en terre cuite;201501;999912
+2341;Articles céramiques à usage domestique ou ornemental;201501;999912
+2342;Appareils sanitaires en céramique;201501;999912
+2343;Isolateurs et pièces isolantes en céramique;201501;999912
+2344;Autres produits céramiques à usage technique;201501;999912
+2349;Autres produits céramiques;201501;999912
+2351;Ciment;201501;999912
+2352;Chaux et plâtre;201501;999912
+2361;Éléments en béton pour la construction;201501;999912
+2362;Éléments en plâtre pour la construction;201501;999912
+2363;Béton prêt à l'emploi;201501;999912
+2364;Mortiers et bétons secs;201501;999912
+2365;Fibre-ciment;201501;999912
+2369;Autres ouvrages en béton, plâtre ou ciment;201501;999912
+2370;Pierre taillée, façonnée et finie;201501;999912
+2391;Produits abrasifs;201501;999912
+2399;Autres produits minéraux non métalliques n.c.a.;201501;999912
+2410;Produits sidérurgiques de base et ferroalliages;201501;999912
+2420;Tubes, tuyaux, profilés creux et accessoires correspondants en acier;201501;999912
+2431;Barres étirées à froid;201501;999912
+2432;Feuillards laminés à froid;201501;999912
+2433;Produits formés à froid ou pliés;201501;999912
+2434;Fils tréfilés à froid;201501;999912
+2441;Métaux précieux;201501;999912
+2442;Aluminium;201501;999912
+2443;Plomb, zinc et étain;201501;999912
+2444;Cuivre;201501;999912
+2445;Autres métaux non ferreux;201501;999912
+2446;Combustibles nucléaires traités;201501;999912
+2451;Travaux de fonderie de fonte;201501;999912
+2452;Travaux de fonderie d'acier;201501;999912
+2453;Travaux de fonderie de métaux légers;201501;999912
+2454;Travaux de fonderie d'autres métaux non ferreux;201501;999912
+2511;Structures métalliques et parties de structures;201501;999912
+2512;Portes et fenêtres en métal;201501;999912
+2521;Radiateurs et chaudières pour le chauffage central;201501;999912
+2529;Autres réservoirs, citernes et conteneurs métalliques;201501;999912
+2530;Générateurs de vapeur, à l'exclusion des chaudières pour chauffage central;201501;999912
+2540;Armes et munitions;201501;999912
+2550;"Produits de la forge, de l'emboutissage, de l'estampage et du profilage ; produits de la métallurgie des poudres";201501;999912
+2561;Traitement et revêtement des métaux;201501;999912
+2562;Usinage;201501;999912
+2571;Articles de coutellerie;201501;999912
+2572;Serrures et ferrures;201501;999912
+2573;Outillage;201501;999912
+2591;Bidons métalliques et récipients similaires;201501;999912
+2592;Emballages légers métalliques;201501;999912
+2593;Articles en fils, chaînes et ressorts;201501;999912
+2594;Vis et boulons;201501;999912
+2599;Autres produits métalliques n.c.a.;201501;999912
+2611;Composants électroniques;201501;999912
+2612;Cartes électroniques assemblées;201501;999912
+2620;Ordinateurs et équipements périphériques;201501;999912
+2630;Équipements de communication;201501;999912
+2640;Produits électroniques grand public;201501;999912
+2651;Instruments et appareils de mesure, d'essai et de navigation;201501;999912
+2652;Articles d'horlogerie;201501;999912
+2660;Équipements d'irradiation médicale, électromédicaux et électrothérapeutiques;201501;999912
+2670;Matériel optique et photographique;201501;999912
+2680;Supports magnétiques et optiques;201501;999912
+2711;Moteurs, génératrices et transformateurs électriques;201501;999912
+2712;Matériel de distribution et de commande électrique;201501;999912
+2720;Piles et accumulateurs électriques;201501;999912
+2731;Câbles de fibres optiques;201501;999912
+2732;Autres fils et câbles électroniques ou électriques;201501;999912
+2733;Matériel d'installation électrique;201501;999912
+2740;Appareils d'éclairage électrique;201501;999912
+2751;Appareils électroménagers;201501;999912
+2752;Appareils ménagers non électriques;201501;999912
+2790;Autres matériels électriques;201501;999912
+2811;Moteurs et turbines, à l'exclusion des moteurs pour avions, automobiles et motocycles;201501;999912
+2812;Équipements hydrauliques et pneumatiques;201501;999912
+2813;Autres pompes et compresseurs;201501;999912
+2814;Autres articles de robinetterie;201501;999912
+2815;Engrenages et organes mécaniques de transmission;201501;999912
+2821;Fours et brûleurs;201501;999912
+2822;Matériel de levage et de manutention;201501;999912
+2823;Machines et équipements de bureau (à l'exclusion des ordinateurs et équipements périphériques);201501;999912
+2824;Outillage portatif à moteur incorporé;201501;999912
+2825;Équipements aérauliques et frigorifiques industriels;201501;999912
+2829;Autres machines d'usage général n.c.a.;201501;999912
+2830;Machines agricoles et forestières;201501;999912
+2841;Machines de formage des métaux;201501;999912
+2849;Autres machines-outils;201501;999912
+2891;Machines pour la métallurgie;201501;999912
+2892;Machines pour l'extraction ou la construction;201501;999912
+2893;Machines pour l'industrie agroalimentaire;201501;999912
+2894;Machines pour les industries textiles;201501;999912
+2895;Machines pour les industries du papier et du carton;201501;999912
+2896;Machines pour le travail du caoutchouc ou des matières plastiques;201501;999912
+2899;Autres machines d'usage spécifique n.c.a.;201501;999912
+2910;Véhicules automobiles;201501;999912
+2920;"Carrosseries automobiles ; remorques et semi-remorques";201501;999912
+2931;Équipements électriques et électroniques automobiles;201501;999912
+2932;Autres parties et accessoires pour véhicules automobiles;201501;999912
+3011;Navires et structures flottantes;201501;999912
+3012;Bateaux de plaisance;201501;999912
+3020;Locomotives et autre matériel ferroviaire roulant;201501;999912
+3030;Aéronefs et engins spatiaux;201501;999912
+3040;Véhicules militaires de combat;201501;999912
+3091;Motocycles;201501;999912
+3092;Cycles et véhicules pour invalides;201501;999912
+3099;Autres équipements de transport n.c.a.;201501;999912
+3100;"Sièges et leurs parties ; parties de meubles";201501;999912
+3101;Meubles de bureau et de magasin;201501;999912
+3102;Meubles de cuisine;201501;999912
+3103;Sommiers et matelas;201501;999912
+3109;Autres meubles;201501;999912
+3211;Monnaies;201501;999912
+3212;Articles de joaillerie et bijouterie;201501;999912
+3213;Articles de bijouterie fantaisie et articles similaires;201501;999912
+3220;Instruments de musique;201501;999912
+3230;Articles de sport;201501;999912
+3240;Jeux et jouets;201501;999912
+3250;Instruments et fournitures à usage médical et dentaire;201501;999912
+3291;Articles de brosserie;201501;999912
+3299;Autres produits manufacturés n.c.a.;201501;999912
+3311;Réparation d'ouvrages en métaux;201501;999912
+3312;Réparation de machines et équipements mécaniques;201501;999912
+3313;Réparation de matériels électroniques et optiques;201501;999912
+3314;Réparation d'équipements électriques;201501;999912
+3315;Réparation et entretien de navires et bateaux;201501;999912
+3316;Réparation et entretien d'aéronefs et d'engins spatiaux;201501;999912
+3317;Réparation et entretien d'autres équipements de transport;201501;999912
+3319;Réparation d'autres équipements;201501;999912
+3320;Installation de machines et d'équipements industriels;201501;999912
+3511;Électricité;201501;999912
+3512;Transport d'électricité;201501;999912
+3513;Distribution d'électricité;201501;999912
+3514;Commerce de l'électricité;201501;999912
+3521;Gaz manufacturé;201501;999912
+3522;Distribution de combustibles gazeux par conduites;201501;999912
+3523;Commerce du gaz par conduites;201501;999912
+3530;Production et distribution de vapeur et d'air conditionné;201501;999912
+3600;"Eau naturelle ; traitement et distribution d'eau";201501;999912
+3700;"Collecte et traitement des eaux usées ; boues d'épuration";201501;999912
+3811;"Déchets non dangereux ; collecte des déchets non dangereux";201501;999912
+3812;"Déchets dangereux ; collecte des déchets dangereux";201501;999912
+3821;Traitement et élimination des déchets non dangereux;201501;999912
+3822;Traitement et élimination des déchets dangereux;201501;999912
+3831;Démantèlement d'épaves;201501;999912
+3832;"Récupération de matériaux triés ; matières premières secondaires";201501;999912
+3900;Dépollution et autres services de gestion des déchets;201501;999912
+4100;Bâtiments et travaux de construction de bâtiments;201501;999912
+4211;"Routes et autoroutes ; travaux de construction relatifs aux routes et autoroutes";201501;999912
+4212;"Voies ferrées de surface et souterraines ; travaux de construction relatifs aux voies ferrées de surface et souterraines";201501;999912
+4213;"Ponts et tunnels ; travaux de construction relatifs aux ponts et tunnels";201501;999912
+4221;Ouvrages et travaux de construction relatifs aux réseaux pour fluides;201501;999912
+4222;Ouvrages et travaux de construction relatifs aux réseaux d'électricité et de télécommunications;201501;999912
+4291;Ouvrages et travaux de construction relatifs aux projets liés à l'eau;201501;999912
+4299;Ouvrages et travaux de construction relatifs aux autres projets de génie civil n.c.a.;201501;999912
+4311;Travaux de démolition;201501;999912
+4312;Travaux de préparation de sites;201501;999912
+4313;Travaux de forage et de sondage;201501;999912
+4321;Travaux d'installation électrique;201501;999912
+4322;Travaux de plomberie et d'installation de chauffage et de conditionnement d'air;201501;999912
+4329;Autres travaux d'installation;201501;999912
+4331;Travaux de plâtrerie;201501;999912
+4332;Travaux de menuiserie;201501;999912
+4333;Travaux de revêtement des sols et des murs;201501;999912
+4334;Travaux de peinture et de vitrerie;201501;999912
+4339;Autres travaux de finition;201501;999912
+4391;Travaux de couverture;201501;999912
+4399;Autres travaux de construction spécialisés n.c.a.;201501;999912
+4511;Commerce de voitures et de véhicules automobiles légers;201501;999912
+4519;Commerce d'autres véhicules automobiles;201501;999912
+4520;Entretien et réparation de véhicules automobiles;201501;999912
+4531;Commerce de gros de pièces détachées et accessoires pour véhicules automobiles;201501;999912
+4532;Commerce de détail de pièces détachées et accessoires pour véhicules automobiles;201501;999912
+4540;Commerce et réparation de motocycles;201501;999912
+4611;Services d'intermédiaire du commerce de gros de matières premières agricoles, animaux vivants, matières premières textiles et produits semi-finis;201501;999912
+4612;Services d'intermédiaire du commerce de gros de combustibles, minerais, métaux et produits chimiques;201501;999912
+4613;Services d'intermédiaire du commerce de gros de bois et de matériaux de construction;201501;999912
+4614;Services d'intermédiaire du commerce de gros de machines, équipements industriels, navires et aéronefs;201501;999912
+4615;Services d'intermédiaire du commerce de gros de meubles, articles ménagers et quincaillerie;201501;999912
+4616;Services d'intermédiaire du commerce de gros de textiles, habillement, fourrures, chaussures et articles en cuir;201501;999912
+4617;Services d'intermédiaire du commerce de gros de denrées alimentaires, boissons et tabac;201501;999912
+4618;Services d'intermédiaire du commerce de gros d'autres produits spécifiques;201501;999912
+4619;Services d'intermédiaire du commerce de gros de produits divers;201501;999912
+4621;Commerce de gros de céréales, tabac non manufacturé, semences et aliments pour le bétail;201501;999912
+4622;Commerce de gros de fleurs et plantes;201501;999912
+4623;Commerce de gros d'animaux vivants;201501;999912
+4624;Commerce de gros de cuirs et peaux;201501;999912
+4631;Commerce de gros de fruits et légumes;201501;999912
+4632;Commerce de gros de viandes et de produits à base de viande;201501;999912
+4633;Commerce de gros de produits laitiers, œufs, huiles et matières grasses comestibles;201501;999912
+4634;Commerce de gros de boissons;201501;999912
+4635;Commerce de gros de produits à base de tabac;201501;999912
+4636;Commerce de gros de sucre, chocolat et confiserie;201501;999912
+4637;Commerce de gros de café, thé, cacao et épices;201501;999912
+4638;Commerce de gros d'autres denrées alimentaires, y compris de poissons, crustacés et mollusques;201501;999912
+4639;Commerce de gros non spécialisé de denrées alimentaires, boissons et tabac;201501;999912
+4641;Commerce de gros de textiles;201501;999912
+4642;Commerce de gros de vêtements et de chaussures;201501;999912
+4643;Commerce de gros d'appareils électroménagers;201501;999912
+4644;Commerce de gros de vaisselle, verrerie et produits d'entretien;201501;999912
+4645;Commerce de gros de parfums et de produits de beauté;201501;999912
+4646;Commerce de gros de produits pharmaceutiques;201501;999912
+4647;Commerce de gros de meubles, de tapis et d'appareils d'éclairage;201501;999912
+4648;Commerce de gros d'articles d'horlogerie et de bijouterie;201501;999912
+4649;Commerce de gros d'autres articles ménagers;201501;999912
+4651;Commerce de gros d'ordinateurs, de périphériques et de logiciels;201501;999912
+4652;Commerce de gros d'équipements et composants électroniques et de télécommunications;201501;999912
+4661;Commerce de gros de matériel agricole;201501;999912
+4662;Commerce de gros de machines-outils;201501;999912
+4663;Commerce de gros de machines pour l'extraction, la construction et le génie civil;201501;999912
+4664;Commerce de gros de machines pour l'industrie textile et l'habillement;201501;999912
+4665;Commerce de gros de mobilier de bureau;201501;999912
+4666;Commerce de gros d'autres machines et équipements de bureau;201501;999912
+4669;Commerce de gros d'autres machines et équipements;201501;999912
+4671;Commerce de gros de combustibles solides, liquides et gazeux et de produits annexes;201501;999912
+4672;Commerce de gros de minerais et métaux;201501;999912
+4673;Commerce de gros de bois, de matériaux de construction et d'appareils sanitaires;201501;999912
+4674;Commerce de gros de quincaillerie et fournitures pour plomberie et chauffage;201501;999912
+4675;Commerce de gros de produits chimiques;201501;999912
+4676;Commerce de gros d'autres produits intermédiaires;201501;999912
+4677;Commerce de gros de déchets et débris;201501;999912
+4690;Commerce de gros non spécialisé;201501;999912
+4700;Commerce de détail, à l'exclusion des automobiles et des motocycles;201501;999912
+4910;Transport ferroviaire interurbain de voyageurs;201501;999912
+4920;Transport ferroviaire de fret;201501;999912
+4931;Transport terrestre urbain et suburbain de voyageurs;201501;999912
+4932;Services de taxi;201501;999912
+4939;Autres transports terrestres de voyageurs n.c.a.;201501;999912
+4941;Transport routier de fret;201501;999912
+4942;Services de déménagement;201501;999912
+4950;Transport par conduites;201501;999912
+5010;Transport maritime et côtier de passagers;201501;999912
+5020;Transport maritime et côtier de fret;201501;999912
+5030;Transport fluvial de passagers;201501;999912
+5040;Transport fluvial de fret;201501;999912
+5110;Transport aérien de passagers;201501;999912
+5121;Transport aérien de fret;201501;999912
+5122;Transport spatial;201501;999912
+5210;Entreposage et stockage;201501;999912
+5221;Services auxiliaires des transports terrestres;201501;999912
+5222;Services auxiliaires des transports par eau;201501;999912
+5223;Services auxiliaires des transports aériens;201501;999912
+5224;Services de manutention;201501;999912
+5229;Autres services auxiliaires des transports;201501;999912
+5310;Services de poste dans le cadre d'une obligation de service universel;201501;999912
+5320;Autres services de poste et de courrier;201501;999912
+5510;Hôtellerie et hébergement similaire;201501;999912
+5520;Hébergement touristique et autres services d'hébergement de courte durée;201501;999912
+5530;Services des terrains de camping et parcs pour caravanes et véhicules de loisirs;201501;999912
+5590;Autres services d'hébergement;201501;999912
+5610;Restauration et restauration mobile;201501;999912
+5621;Services de traiteurs;201501;999912
+5629;Autres services de restauration collective;201501;999912
+5630;Services de débits de boissons;201501;999912
+5811;Édition de livres;201501;999912
+5812;Édition de répertoires et de fichiers d'adresses;201501;999912
+5813;Édition de journaux;201501;999912
+5814;Édition de revues et périodiques;201501;999912
+5819;Autres activités d'édition;201501;999912
+5821;Édition de jeux électroniques;201501;999912
+5829;Édition d'autres logiciels;201501;999912
+5911;Production de films cinématographiques, de vidéos et de programmes de télévision;201501;999912
+5912;Post-production de films cinématographiques, de vidéos et de programmes de télévision;201501;999912
+5913;Distribution de films cinématographiques, de vidéos et de programmes de télévision;201501;999912
+5914;Projection de films cinématographiques;201501;999912
+5920;Enregistrement sonore et édition musicale;201501;999912
+6010;Radiodiffusion;201501;999912
+6020;"Programmation de télévision et télédiffusion ; originaux d'émissions de télévision";201501;999912
+6110;Services de télécommunications filaires;201501;999912
+6120;Services de télécommunications sans fil;201501;999912
+6130;Services de télécommunications par satellite;201501;999912
+6190;Autres services de télécommunications;201501;999912
+6201;Services de programmation informatique;201501;999912
+6202;Services de conseil en informatique;201501;999912
+6203;Services de gestion d'installations informatiques;201501;999912
+6209;Autres services informatiques;201501;999912
+6311;Traitement de données, hébergement et activités connexes;201501;999912
+6312;Services de portails internet;201501;999912
+6391;Services des agences de presse;201501;999912
+6399;Autres services d'information n.c.a.;201501;999912
+6411;Services de banque centrale;201501;999912
+6419;Autres services d'intermédiation monétaire;201501;999912
+6420;Services des sociétés holding;201501;999912
+6430;Services des fonds de placement et entités financières similaires;201501;999912
+6491;Services de crédit-bail;201501;999912
+6492;Autres services de crédits;201501;999912
+6499;Autres services financiers, hors assurances et caisses de retraite, n.c.a.;201501;999912
+6511;Assurance vie;201501;999912
+6512;Assurances non-vie;201501;999912
+6520;Réassurance;201501;999912
+6530;Caisses de retraite;201501;999912
+6611;Services liés à l'administration de marchés financiers;201501;999912
+6612;Services de courtage de valeurs mobilières et de marchandises;201501;999912
+6619;Autres services auxiliaires aux services financiers, hors assurances et caisses de retraite;201501;999912
+6621;Services d'évaluation des risques et dommages;201501;999912
+6622;Services des agents et courtiers d'assurances;201501;999912
+6629;Autres services auxiliaires des assurances et caisses de retraite;201501;999912
+6630;Services de gestion de fonds;201501;999912
+6810;Transactions sur biens immobiliers propres;201501;999912
+6820;Services de location et exploitation de biens immobiliers propres ou loués;201501;999912
+6831;Services des agences immobilières;201501;999912
+6832;Services d'administration de biens immobiliers pour compte de tiers;201501;999912
+6910;Services juridiques;201501;999912
+6920;"Services comptables, de tenue de livres de comptes et d'audits ; services de conseil fiscal";201501;999912
+7010;Services des sièges sociaux;201501;999912
+7021;Services de relations publiques et communication;201501;999912
+7022;Services de conseil en matière d'affaires et de gestion;201501;999912
+7111;Services d'architecture;201501;999912
+7112;Services d'ingénierie et services de conseil technique connexes;201501;999912
+7120;Services de contrôle et analyses techniques;201501;999912
+7200;Recherche et développement expérimental interdisciplinaires;201501;999912
+7211;Recherche et développement en biotechnologie;201501;999912
+7219;Recherche et développement en autres sciences physiques et naturelles;201501;999912
+7220;Recherche et développement en sciences humaines et sociales;201501;999912
+7311;Services fournis par les agences publicitaires;201501;999912
+7312;Régie publicitaire de médias;201501;999912
+7320;Services d'études de marché et de sondages;201501;999912
+7410;Services de design spécialisés;201501;999912
+7420;Services photographiques;201501;999912
+7430;Services de traduction et interprétation;201501;999912
+7490;Autres services spécialisés, scientifiques et techniques n.c.a.;201501;999912
+7500;Services vétérinaires;201501;999912
+7711;Location et location-bail de voitures et véhicules automobiles légers;201501;999912
+7712;Location et location-bail de camions;201501;999912
+7721;Location et location-bail d'articles de loisirs et de sport;201501;999912
+7722;Location de vidéocassettes et dvd;201501;999912
+7729;Location et location-bail d'autres biens personnels et domestiques;201501;999912
+7731;Location et location-bail de matériel agricole;201501;999912
+7732;Location et location-bail de machines et équipements pour la construction et le génie civil;201501;999912
+7733;Location et location-bail de machines de bureau et de matériel informatique;201501;999912
+7734;Location et location-bail de matériels de transport par eau;201501;999912
+7735;Location et location-bail de matériels de transport aérien;201501;999912
+7739;Location et location-bail d'autres machines, équipements et biens n.c.a.;201501;999912
+7740;Services de licence pour l'utilisation de produits de la propriété intellectuelle et similaires, à l'exclusion des œuvres protégées par des droits d'auteur;201501;999912
+7810;Services des agences de placement de main-d'œuvre;201501;999912
+7820;Services des agences de travail temporaire;201501;999912
+7830;Autres services de mise à disposition de ressources humaines;201501;999912
+7911;Services des agences de voyage;201501;999912
+7912;Services des voyagistes;201501;999912
+7990;Autres services de réservation et services connexes;201501;999912
+8010;Services de sécurité privée;201501;999912
+8020;Services de systèmes de sécurité;201501;999912
+8030;Services d'enquête;201501;999912
+8110;Services d'appui combinés liés aux bâtiments;201501;999912
+8121;Services de nettoyage courant des bâtiments;201501;999912
+8122;Autres services de nettoyage des bâtiments et de nettoyage industriel;201501;999912
+8129;Autres services de nettoyage;201501;999912
+8130;Services d'aménagement paysager;201501;999912
+8211;Services administratifs combinés;201501;999912
+8219;Photocopie, préparation de documents et autres services spécialisés de soutien administratif;201501;999912
+8220;Services des centres d'appels;201501;999912
+8230;Services d'organisation de salons professionnels et congrès;201501;999912
+8291;Services des agences de recouvrement et des sociétés d'information financière sur la clientèle;201501;999912
+8292;Services de conditionnement;201501;999912
+8299;Autres services de soutien aux entreprises n.c.a.;201501;999912
+8411;Services d'administration publique générale;201501;999912
+8412;Services d'administration publique (tutelle) de la santé, de la formation, de la culture et des services sociaux, autres que sécurité sociale;201501;999912
+8413;Services d'administration publique (tutelle) des activités économiques;201501;999912
+8421;Services des affaires étrangères;201501;999912
+8422;Services de la défense;201501;999912
+8423;Services de la justice;201501;999912
+8424;Services de maintien de l'ordre et de sécurité;201501;999912
+8425;Services du feu et de secours;201501;999912
+8430;Services de sécurité sociale obligatoire;201501;999912
+8510;Enseignement préprimaire;201501;999912
+8520;Enseignement primaire;201501;999912
+8531;Enseignement secondaire général;201501;999912
+8532;Enseignement secondaire technique ou professionnel;201501;999912
+8541;Enseignement post-secondaire non supérieur;201501;999912
+8542;Enseignement supérieur;201501;999912
+8551;Enseignement de disciplines sportives et d'activités de loisirs;201501;999912
+8552;Enseignement culturel;201501;999912
+8553;Enseignement de la conduite;201501;999912
+8559;Services d'enseignement divers n.c.a.;201501;999912
+8560;Services de soutien à l'enseignement;201501;999912
+8610;Services hospitaliers;201501;999912
+8621;Services des médecins généralistes;201501;999912
+8622;Services des médecins spécialistes;201501;999912
+8623;Services de soins dentaires;201501;999912
+8690;Autres services de santé humaine;201501;999912
+8710;Services d'hébergement médicalisé;201501;999912
+8720;Services d'hébergement social pour personnes handicapées mentales, malades mentales et toxicomanes;201501;999912
+8730;Services d'hébergement social pour personnes âgées ou handicapées physiques;201501;999912
+8790;Autres services d'hébergement social;201501;999912
+8810;Services d'action sociale sans hébergement pour personnes âgées ou handicapées;201501;999912
+8891;Services d'action sociale sans hébergement pour jeunes enfants;201501;999912
+8899;Autres services d'action sociale sans hébergement n.c.a.;201501;999912
+9001;Services d'artistes du spectacle vivant;201501;999912
+9002;Services de soutien au spectacle vivant;201501;999912
+9003;Création artistique;201501;999912
+9004;Services de gestion de salles de spectacles;201501;999912
+9101;Services des bibliothèques et archives;201501;999912
+9102;Services des musées;201501;999912
+9103;Services de gestion des sites et monuments historiques et attractions touristiques similaires;201501;999912
+9104;Services des jardins botaniques et zoologiques et des réserves naturelles;201501;999912
+9200;Jeux de hasard et d'argent;201501;999912
+9311;Services de gestion d'installations sportives;201501;999912
+9312;Services de clubs de sports;201501;999912
+9313;Services des centres de culture physique;201501;999912
+9319;Autres services liés au sport;201501;999912
+9321;Services des parcs d'attraction et parcs à thème;201501;999912
+9329;Autres services récréatifs et de loisirs;201501;999912
+9411;Services fournis par des organisations consulaires et patronales;201501;999912
+9412;Services fournis par des organisations professionnelles;201501;999912
+9420;Services fournis par des syndicats de salariés;201501;999912
+9491;Services fournis par des organisations religieuses;201501;999912
+9492;Services fournis par des organisations politiques;201501;999912
+9499;Services fournis par d'autres organisations associatives n.c.a.;201501;999912
+9511;Services de réparation d'ordinateurs et d'équipements périphériques;201501;999912
+9512;Services de réparation d'équipements de communication;201501;999912
+9521;Services de réparation de produits électroniques grand public;201501;999912
+9522;Services de réparation d'appareils électroménagers et d'équipements pour la maison et le jardin;201501;999912
+9523;Services de réparation de chaussures et d'articles en cuir;201501;999912
+9524;Services de réparation de meubles et d'équipements du foyer;201501;999912
+9525;Services de réparation d'articles d'horlogerie et de bijouterie;201501;999912
+9529;Services de réparation d'autres biens personnels et domestiques;201501;999912
+9601;Services de blanchisserie-teinturerie;201501;999912
+9602;Services de coiffure et soins de beauté;201501;999912
+9603;Services funéraires et connexes;201501;999912
+9604;Services d'entretien corporel;201501;999912
+9609;Autres services personnels n.c.a.;201501;999912
+9700;Services des ménages en tant qu'employeurs de personnel domestique;201501;999912
+9810;Biens divers produits par les ménages privés pour leur usage propre;201501;999912
+9820;Services divers produits par les ménages privés pour leur usage propre;201501;999912
+9900;Services extra-territoriaux;201501;999912

@@ -1,0 +1,76 @@
+﻿A01Z;Produits de la culture et de l’élevage;200901;999912
+A02Z;Produits sylvicoles;200901;999912
+A03Z;Produits de la pêche et de l'aquaculture;200901;999912
+B05Z;Houille;200901;999912
+B06Z;Hydrocarbures naturels;200901;999912
+B07Z;Minerais métalliques;200901;999912
+B08Z;Produits divers des industries extractives;200901;999912
+C10A;Viande et produits à base de viande;200901;999912
+C10B;Préparations et conserves à base de poisson et de produits de la pêche;200901;999912
+C10C;Produits à base de fruits et légumes, y compris les jus;200901;999912
+C10D;Huiles et graisses végétales et animales, tourteaux;200901;999912
+C10E;Produits laitiers et glaces;200901;999912
+C10F;Produits du travail des grains et produits amylacés;200901;999912
+C10G;Produits de boulangerie-pâtisserie et pâtes alimentaires;200901;999912
+C10H;Produits alimentaires divers;200901;999912
+C10K;Aliments pour animaux;200901;999912
+C11Z;Boissons;200901;999912
+C12Z;Tabacs manufacturés;200901;999912
+C13Z;Produits de l'industrie textile;200901;999912
+C14Z;Articles d'habillement;200901;999912
+C15Z;Cuir, bagages et chaussures;200901;999912
+C16Z;Bois, articles en bois;200901;999912
+C17A;Pâte à papier, papier et carton;200901;999912
+C17B;Articles en papier ou en carton;200901;999912
+C18Z;Matériel d’impression et de reproduction;200901;999912
+C19Z;Produits pétroliers raffinés et coke;200901;999912
+C20A;Produits chimiques de base, produits azotés, matières plastiques et caoutchouc synthétique;200901;999912
+C20B;Parfums, cosmétiques et produits d’entretien;200901;999912
+C20C;Produits chimiques divers;200901;999912
+C21Z;Produits pharmaceutiques;200901;999912
+C22A;Produits en caoutchouc;200901;999912
+C22B;Produits en plastique;200901;999912
+C23A;Verre et articles en verre;200901;999912
+C23B;Matériaux de construction et produits minéraux divers;200901;999912
+C24A;Produits sidérurgiques et de première transformation de l'acier;200901;999912
+C24B;Métaux non ferreux;200901;999912
+C24C;Produits de fonderie;200901;999912
+C25A;Éléments en métal pour la construction;200901;999912
+C25B;Produits de la chaudronnerie;200901;999912
+C25C;Armes et munitions;200901;999912
+C25E;Coutellerie, outillage, quincaillerie et ouvrages divers en métaux;200901;999912
+C26A;Composants et cartes électroniques;200901;999912
+C26B;Ordinateurs et équipements périphériques;200901;999912
+C26C;Téléphones et équipements de communication;200901;999912
+C26D;Produits électroniques grand public;200901;999912
+C26E;"Appareils de mesure, d'essai et de navigation ; articles d'horlogerie";200901;999912
+C26F;Équipements électromédicaux de diagnostic et de traitement;200901;999912
+C26G;"Matériels optique et photographique ; supports magnétiques et optiques";200901;999912
+C27A;Appareils ménagers;200901;999912
+C27B;Matériel électrique;200901;999912
+C28A;Machines et équipements d'usage général;200901;999912
+C28B;Machines agricoles et forestières;200901;999912
+C28C;Machines-outils;200901;999912
+C28D;Machines diverses d'usage spécifique;200901;999912
+C29A;Produits de la construction automobile;200901;999912
+C29B;Équipements pour automobiles;200901;999912
+C30A;Navires et bateaux;200901;999912
+C30B;Matériel ferroviaire roulant;200901;999912
+C30C;Produits de la construction aéronautique et spatiale;200901;999912
+C30D;Véhicules militaires de combat;200901;999912
+C30E;Cycles et motocycles;200901;999912
+C31Z;Meubles;200901;999912
+C32A;Articles de joaillerie et bijouterie, instruments de musique;200901;999912
+C32B;Instruments à usage médical, optique et dentaire;200901;999912
+C32C;"Articles de sport, jeux et jouets ; produits manufacturés divers";200901;999912
+D35A;Électricité;200901;999912
+D35B;Gaz manufacturé;200901;999912
+E37Z;Boues d'épuration et ordures ménagères;200901;999912
+E38Z;Déchets industriels;200901;999912
+J58Z;Produits de l’édition, logiciels;200901;999912
+J59Z;CD et DVD enregistrés;200901;999912
+M71Z;Plans et dessins techniques;200901;999912
+M74Z;Plaques et films photographiques exposés;200901;999912
+R90Z;Tableaux, gravures, sculptures;200901;999912
+R91Z;Objets d’antiquité et de collection;200901;999912
+S96Z;Cheveux bruts;200901;999912

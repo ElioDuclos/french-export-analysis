@@ -1,0 +1,101 @@
+02;Aisne;01;Hauts-de-France
+59;Nord;01;Hauts-de-France
+60;Oise;01;Hauts-de-France
+62;Pas-de-Calais;01;Hauts-de-France
+80;Somme;01;Hauts-de-France
+75;Paris;03;Ile-de-France
+77;Seine-et-Marne;03;Ile-de-France
+78;Yvelines;03;Ile-de-France
+91;Essonne;03;Ile-de-France
+92;Hauts-de-Seine;03;Ile-de-France
+93;Seine-Saint-Denis;03;Ile-de-France
+94;Val-de-Marne;03;Ile-de-France
+95;Val-d'Oise;03;Ile-de-France
+18;Cher;04;Centre-Val de Loire
+28;Eure-et-Loir;04;Centre-Val de Loire
+36;Indre;04;Centre-Val de Loire
+37;Indre-et-Loire;04;Centre-Val de Loire
+41;Loir-et-Cher;04;Centre-Val de Loire
+45;Loiret;04;Centre-Val de Loire
+14;Calvados;05;Normandie
+27;Eure;05;Normandie
+50;Manche;05;Normandie
+61;Orne;05;Normandie
+76;Seine-Maritime;05;Normandie
+22;Côtes-d'Armor;07;Bretagne
+29;Finistère;07;Bretagne
+35;Ille-et-Vilaine;07;Bretagne
+56;Morbihan;07;Bretagne
+44;Loire-Atlantique;08;Pays de la Loire
+49;Maine-et-Loire;08;Pays de la Loire
+53;Mayenne;08;Pays de la Loire
+72;Sarthe;08;Pays de la Loire
+85;Vendée;08;Pays de la Loire
+16;Charente;09;Nouvelle-Aquitaine
+17;Charente-Maritime;09;Nouvelle-Aquitaine
+19;Corrèze;09;Nouvelle-Aquitaine
+23;Creuse;09;Nouvelle-Aquitaine
+24;Dordogne;09;Nouvelle-Aquitaine
+33;Gironde;09;Nouvelle-Aquitaine
+40;Landes;09;Nouvelle-Aquitaine
+47;Lot-et-Garonne;09;Nouvelle-Aquitaine
+64;Pyrénées-Atlantiques;09;Nouvelle-Aquitaine
+79;Deux-Sèvres;09;Nouvelle-Aquitaine
+86;Vienne;09;Nouvelle-Aquitaine
+87;Haute-Vienne;09;Nouvelle-Aquitaine
+09;Ariège;12;Occitanie
+11;Aude;12;Occitanie
+12;Aveyron;12;Occitanie
+30;Gard;12;Occitanie
+31;Haute-Garonne;12;Occitanie
+32;Gers;12;Occitanie
+34;Hérault;12;Occitanie
+46;Lot;12;Occitanie
+48;Lozère;12;Occitanie
+65;Hautes-Pyrénées;12;Occitanie
+66;Pyrénées-Orientales;12;Occitanie
+81;Tarn;12;Occitanie
+82;Tarn-et-Garonne;12;Occitanie
+08;Ardennes;13;Grand Est
+10;Aube;13;Grand Est
+51;Marne;13;Grand Est
+52;Haute-Marne;13;Grand Est
+54;Meurthe-et-Moselle;13;Grand Est
+55;Meuse;13;Grand Est
+57;Moselle;13;Grand Est
+67;Bas-Rhin;13;Grand Est
+68;Haut-Rhin;13;Grand Est
+88;Vosges;13;Grand Est
+21;Côte-d'or;16;Bourgogne - Franche-Comté
+25;Doubs;16;Bourgogne - Franche-Comté
+39;Jura;16;Bourgogne - Franche-Comté
+58;Nièvre;16;Bourgogne - Franche-Comté
+70;Haute-Saône;16;Bourgogne - Franche-Comté
+71;Saône-et-Loire;16;Bourgogne - Franche-Comté
+89;Yonne;16;Bourgogne - Franche-Comté
+90;Territoire de Belfort;16;Bourgogne - Franche-Comté
+01;Ain;18;Auvergne - Rhône-Alpes
+03;Allier;18;Auvergne - Rhône-Alpes
+07;Ardèche;18;Auvergne - Rhône-Alpes
+15;Cantal;18;Auvergne - Rhône-Alpes
+26;Drôme;18;Auvergne - Rhône-Alpes
+38;Isère;18;Auvergne - Rhône-Alpes
+42;Loire;18;Auvergne - Rhône-Alpes
+43;Haute-Loire;18;Auvergne - Rhône-Alpes
+63;Puy-de-Dôme;18;Auvergne - Rhône-Alpes
+69;Rhône;18;Auvergne - Rhône-Alpes
+73;Savoie;18;Auvergne - Rhône-Alpes
+74;Haute-Savoie;18;Auvergne - Rhône-Alpes
+04;Alpes-de-Haute-Provence;21;Provence-Alpes-Côte d'Azur
+05;Hautes-Alpes;21;Provence-Alpes-Côte d'Azur
+06;Alpes-Maritimes;21;Provence-Alpes-Côte d'Azur
+13;Bouches-du-Rhône;21;Provence-Alpes-Côte d'Azur
+83;Var;21;Provence-Alpes-Côte d'Azur
+84;Vaucluse;21;Provence-Alpes-Côte d'Azur
+99;Principauté de Monaco;21;Provence-Alpes-Côte d'Azur
+20;Corse;22;Corse
+9A;Guadeloupe;24;DOM
+9B;Martinique;24;DOM
+9C;Guyane;24;DOM
+9D;Réunion;24;DOM
+9E;Mayotte;24;DOM

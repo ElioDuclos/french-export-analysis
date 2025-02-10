@@ -1,0 +1,125 @@
+﻿
+Avertissement : 
+
+
+Depuis le mois de référence de janvier 2022, l’enquête mensuelle sur les échanges de biens intra-UE (EMEBI) a remplacé la déclaration d’échanges de biens (DEB)
+pour la collecte des informations statistiques relatives aux expéditions et introductions de biens avec les États-membres de l’Union européenne (UE).
+
+À l'inverse des séries diffusées à la rubrique « Synthèse & indicateurs » du site « Le chiffre du commerce extérieur », celles disponibles en Open data - à partir du 
+menu « Bases complètes » de la rubrique « Téléchargement » du site ou directement à partir de la rubrique « Open data » du site de la douane - continuent d’être diffusées 
+brutes de collecte, sans intégration de correction de la non-réponse. 
+
+Ainsi, en raison du changement de mode de collecte depuis le mois de référence de janvier 2022, les données brutes de collecte diffusées en Open data peuvent être impactées
+ par des ruptures de séries, plus ou moins importantes selon les biens et les pays partenaires concernés. Les importations et exportations depuis et vers les États membres 
+de l’UE sont principalement concernées. Les importations originaires de certains pays tiers peuvent être également impactées dès lors que les biens originaires de ces pays tiers 
+sont dédouanés dans un État membre de l’UE avant d’être importés en France. 
+
+
+Voici la liste des fichiers associés à chacun des jeux de données concernant le chiffre du commerce extérieur.
+
+
+Statistiques Nationales du Commerce Extérieur - (Import ou Export)
+==================================================================
+
+NATIONAL_NC8PAYSE.txt : Jeu de données principal pour l'export.
+NATIONAL_NC8PAYSI.txt : Jeu de données principal pour l'import.
+
+Description-des-jeux-de-donnees.pdf : Fiche descriptive permettant d'interpréter le jeu de données Statistiques Nationales du Commerce Extérieur - Import et Export.
+
+
+Libelle_NC8_AAAA.txt
+--------------------
+
+Ce fichier liste les associations entre un code NC8 et son libellé pour la période couverte par le jeu de données. 
+
+Format de fichier: UTF-8 sans BOM, champs séparés par le caractère ; 
+Structure du fichier : NC8;Libelle;Présence d'unité supplémentaire;Libellé unité supplémentaire;Début;Fin;;;;;;
+Exemple : 01012100;Chevaux reproducteurs de race pure;1;Nombre de pièces;2012;9999;;;;;;
+
+La date 9999 indique que l'association a cours au moment où le fichier est mis en ligne. 
+
+
+Libelle_PAYS.txt
+----------------
+
+Ce fichier liste les associations entre un code pays et son libellé et la date de validité de cette association. 
+Cette nomenclature est extraite du règlement CE 1833/2006. 
+Format de fichier : UTF-8 sans BOM, champs séparés par le caractère ; 
+Structure du fichier : Code; Libellé; Date de début de validité; Date de fin de validité. 
+Exemple : AL;Albanie;197601;999912 
+Une date de 999912 indique que l'association a cours au moment de la mise en ligne de cette annexe.
+
+
+Libelle_CPF6_rev2.1.txt
+-----------------------
+
+Ce fichier liste les associations entre un code CPF6 et son libellé et la date de validité de cette association. 
+Cette nomenclature est gérée par l'INSEE.
+La version utilisée à partir de l'année 2015 est la révision 2.1 de la CPF
+Format de fichier : UTF-8 sans BOM, champs séparés par le caractère ; 
+Structure du fichier : Code; Libellé; Date de début de validité; Date de fin de validité. 
+Exemple : 011111;Blé dur;201501;999912
+La date 999912 indique que l'association a cours au moment de la mise en ligne de cette annexe. 
+
+Libelle_A129.txt
+-----------------------
+
+Ce fichier liste les associations entre un code A129 de la nomenclature agrégégée (NA, 2008) et son libellé et la date de validité de cette association. 
+Cette nomenclature agrégée (NA, 2008) est nécessaire pour répondre aux besoins de la production de données de synthèse pour l'analyse économique et la diffusion.
+Elle est gérée par l'INSEE. 
+Format de fichier : UTF-8 sans BOM, champs séparés par le caractère ; 
+Structure du fichier : Code; Libellé; Date de début de validité; Date de fin de validité. 
+Exemple : A01Z;Produits de la culture et de l’élevage;200901;999912
+La date 999912 indique que l'association a cours au moment de la mise en ligne de cette annexe. 
+
+
+Statistiques Régionales et Départementales du Commerce Extérieur - (Import ou Export)
+=====================================================================================
+
+REGIONAL_CPF4PAYSE.txt : Jeu de données principal pour l'export.
+REGIONAL_CPF4PAYSI.txt : Jeu de données principal pour l'import.
+
+Description-des-jeux-de-donnees.pdf : Fiche descriptive permettant d'interpréter le jeu de données Statistiques Régionales et Départementales du Commerce Extérieur - Import et Export.
+
+
+Libelle_CPF4_rev2.1.txt
+-----------------------
+
+Ce fichier liste les associations entre un code CPF4 et son libellé et la date de validité de cette association. 
+Cette nomenclature est gérée par l'INSEE.
+La version utilisée pour les années 2015 et après est la révision 2.1 de la CPF
+Format de fichier : UTF-8 sans BOM, champs séparés par le caractère ; 
+Structure du fichier : Code; Libellé; Date de début de validité; Date de fin de validité. 
+Exemple : 0111;Céréales (à l'exclusion du riz), légumineuses et oléagineux;201501;999912
+La date 999912 indique que l'association a cours au moment de la mise en ligne de cette annexe. 
+
+Departement_region.txt
+----------------------
+
+Ce fichier liste les associations entre un code département, son libellé, le code région d'appartenance et son libellé.
+Format de fichier : UTF-8 sans BOM, champs séparés par le caractère ; 
+Structure du fichier : Code Département;Libellé Département; Code région; Libellé région; Date de début de validité; Date de fin de validité
+Exemple : 02;Aisne;01;Hauts-de-France
+
+Remarque: il remplace l'ancien fichier DEPARTEMENT.txt.
+
+Libelle_PAYS.txt
+----------------
+
+Ce fichier liste les associations entre un code pays et son libellé et la date de validité de cette association. 
+Cette nomenclature est extraite du règlement CE 1833/2006. 
+Format de fichier : UTF-8 sans BOM, champs séparés par le caractère ; 
+Structure du fichier : Code; Libellé; Date de début de validité; Date de fin de validité. 
+Exemple : AL;Albanie;197601;999912 
+Une date de 999912 indique que l'association a cours au moment de la mise en ligne de cette annexe.
+
+Libelle_A129.txt
+-----------------------
+
+Ce fichier liste les associations entre un code A129 de la nomenclature agrégégée (NA, 2008) et son libellé et la date de validité de cette association. 
+Cette nomenclature agrégée (NA, 2008) est nécessaire pour répondre aux besoins de la production de données de synthèse pour l'analyse économique et la diffusion.
+Elle est gérée par l'INSEE. 
+Format de fichier : UTF-8 sans BOM, champs séparés par le caractère ; 
+Structure du fichier : Code; Libellé; Date de début de validité; Date de fin de validité. 
+Exemple : A01Z;Produits de la culture et de l’élevage;200901;999912
+La date 999912 indique que l'association a cours au moment de la mise en ligne de cette annexe. 

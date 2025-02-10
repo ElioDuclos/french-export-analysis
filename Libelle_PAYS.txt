@@ -1,0 +1,289 @@
+AD;Andorre;190001;999912
+AE;Emirats arabes unis;190001;999912
+AF;Afghanistan;190001;999912
+AG;Antigua-et-Barbuda;190001;999912
+AI;Anguilla;190001;999912
+AL;Albanie;190001;999912
+AM;Arménie;199206;999912
+AN;Antilles néerlandaises;190001;201212
+AO;Angola;190001;999912
+AQ;Antarctique;200101;999912
+AR;Argentine;190001;999912
+AS;Samoa américaines;200101;999912
+AT;Autriche;190001;999912
+AU;Australie;190001;999912
+AW;Aruba;190001;999912
+AZ;Azerbaïdjan;199206;999912
+BA;Bosnie-Herzégovine;199206;999912
+BB;Barbade;190001;999912
+BD;Bangladesh;190001;999912
+BE;Belgique;199901;999912
+BF;Burkina Faso;190001;999912
+BG;Bulgarie;190001;999912
+BH;Bahreïn;190001;999912
+BI;Burundi;190001;999912
+BJ;Bénin;190001;999912
+BL;Saint-Barthélemy;201301;999912
+BM;Bermudes;190001;999912
+BN;Brunei Darussalam;190001;999912
+BO;Bolivie (Etat plurinational de);190001;999912
+BQ;Bonaire, Saint-Eustache et Saba;201301;999912
+BR;Brésil;190001;999912
+BS;Bahamas;190001;999912
+BT;Bhoutan;190001;999912
+BV;Bouvet (île);200101;999912
+BW;Botswana;190001;999912
+BY;Biélorussie;199206;999912
+BZ;Belize;190001;999912
+CA;Canada;190001;999912
+CC;Cocos (Keeling) (îles);200101;999912
+CD;Congo (République démocratique du);190001;999912
+CF;Centrafricaine (République);190001;999912
+CG;Congo;190001;999912
+CH;Suisse;199501;999912
+CI;Côte-d'Ivoire;190001;999912
+CK;Cook (îles);200101;999912
+CL;Chili;190001;999912
+CM;Cameroun;190001;999912
+CN;Chine;190001;999912
+CO;Colombie;190001;999912
+CR;Costa Rica;190001;999912
+CS;Serbie-et-Monténégro;200401;200505
+CU;Cuba;190001;999912
+CV;Cap-Vert;190001;999912
+CW;Curaçao;201301;999912
+CX;Christmas (île);200101;999912
+CY;Chypre;190001;999912
+CZ;Tchèque (République);199301;999912
+DD;Allemagne de l'Est;190001;199012
+DE;Allemagne;190001;999912
+DJ;Djibouti;190001;999912
+DK;Danemark;190001;999912
+DM;Dominique;190001;999912
+DO;Dominicaine (République);190001;999912
+DZ;Algérie;190001;999912
+EC;Equateur;190001;999912
+EE;Estonie;199201;999912
+EG;Egypte;190001;999912
+EH;Sahara occidental;201301;999912
+ER;Erythrée;199401;999912
+ES;Espagne;190001;999912
+ET;Ethiopie;190001;999912
+EU;Union européenne;200506;999912
+FA;Féroé (îles);190001;199212
+FI;Finlande;190001;999912
+FJ;Fidji;190001;999912
+FK;Falkland (îles);190001;999912
+FM;Micronésie (Etats fédérés de);199201;999912
+FO;Féroé (îles);199301;999912
+FR;France;190001;999912
+GA;Gabon;190001;999912
+GB;Royaume-Uni;190001;999912
+GD;Grenade;190001;999912
+GE;Géorgie;199206;999912
+GF;Guyane française;190001;999912
+GH;Ghana;190001;999912
+GI;Gibraltar;190001;999912
+GL;Groenland;190001;999912
+GM;Gambie;190001;999912
+GN;Guinée;190001;999912
+GP;Guadeloupe;190001;999912
+GQ;Guinée équatoriale;190001;999912
+GR;Grèce;190001;999912
+GS;Géorgie du Sud et Sandwich du Sud (îles);200101;999912
+GT;Guatemala;190001;999912
+GU;Guam;200101;999912
+GW;Guinée-Bissau;190001;999912
+GY;Guyana;190001;999912
+HK;Hong Kong;190001;999912
+HM;Heard et Mc Donald (îles);200101;999912
+HN;Honduras;190001;999912
+HR;Croatie;199206;999912
+HT;Haïti;190001;999912
+HU;Hongrie;190001;999912
+ID;Indonésie;190001;999912
+IE;Irlande;190001;999912
+IL;Israël;190001;999912
+IN;Inde;190001;999912
+IO;Océan Indien (Territoire britannique de l');190001;999912
+IQ;Iraq;190001;999912
+IR;Iran (République islamique d');190001;999912
+IS;Islande;190001;999912
+IT;Italie;190001;999912
+JM;Jamaïque;190001;999912
+JO;Jordanie;190001;999912
+JP;Japon;190001;999912
+KE;Kenya;190001;999912
+KG;Kirghize (République);199206;999912
+KH;Cambodge;190001;999912
+KI;Kiribati;190001;999912
+KM;Comores;190001;999912
+KN;Saint-Christophe-et-Nevis;190001;999912
+KP;Corée (République populaire démocratique de);190001;999912
+KR;Corée (République de);190001;999912
+KW;Koweït;190001;999912
+KY;Caïmans (îles);190001;999912
+KZ;Kazakhstan;199206;999912
+LA;Lao (République démocratique populaire);190001;999912
+LB;Liban;190001;999912
+LC;Sainte-Lucie;190001;999912
+LI;Liechtenstein;199501;999912
+LK;Sri Lanka;190001;999912
+LR;Liberia;190001;999912
+LS;Lesotho;190001;999912
+LT;Lituanie;199201;999912
+LU;Luxembourg;199901;999912
+LV;Lettonie;199201;999912
+LY;Libye;190001;999912
+MA;Maroc;190001;999912
+MD;Moldavie (République de);199206;999912
+ME;Monténégro;200701;999912
+MG;Madagascar;190001;999912
+MH;Marshall (îles);199201;999912
+MK;Macédoine (ancienne République yougoslave de);199301;999912
+ML;Mali;190001;999912
+MM;Myanmar;190001;999912
+MN;Mongolie;190001;999912
+MO;Macao;190001;999912
+MP;Mariannes du Nord (îles);199401;999912
+MQ;Martinique;190001;999912
+MR;Mauritanie;190001;999912
+MS;Montserrat;199501;999912
+MT;Malte;190001;999912
+MU;Maurice;190001;999912
+MV;Maldives;190001;999912
+MW;Malawi;190001;999912
+MX;Mexique;190001;999912
+MY;Malaisie;190001;999912
+MZ;Mozambique;190001;999912
+NA;Namibie;199001;999912
+NC;Nouvelle-Calédonie;190001;999912
+NE;Niger;190001;999912
+NF;Norfolk (île);200101;999912
+NG;Nigeria;190001;999912
+NI;Nicaragua;190001;999912
+NL;Pays-Bas;190001;999912
+NO;Norvège;190001;999912
+NP;Népal;190001;999912
+NR;Nauru;190001;999912
+NU;Niué;200101;999912
+NZ;Nouvelle-Zélande;190001;999912
+OM;Oman;190001;999912
+PA;Panama;190001;999912
+PE;Pérou;190001;999912
+PF;Polynésie française;190001;999912
+PG;Papouasie-Nouvelle-Guinée;190001;999912
+PH;Philippines;190001;999912
+PK;Pakistan;190001;999912
+PL;Pologne;190001;999912
+PM;Saint-Pierre-et-Miquelon;190001;999912
+PN;Pitcairn;190001;999912
+PS;Territoire palestinien occupé;200101;999912
+PT;Portugal;190001;999912
+PW;Palaos;199501;999912
+PY;Paraguay;190001;999912
+QA;Qatar;190001;999912
+QP;Haute mer;201310;999912
+QQ;Autocorrections;190001;999912
+QR;Avitaillement et soutage dans le cadre des échanges intra-UE;200501;999912
+QS;Avitaillement et soutage dans le cadre des échanges avec les pays tiers;200501;999912
+QT;Avitaillement;199701;200012
+QU;Pays NDA;190001;199912
+QU;Pays et territoires non déterminés;201201;999912
+QV;Pays et territoires non déterminés dans les échanges intracommunautaires;190001;201112
+QW;Pays et territoires non déterminés dans les échanges avec les pays tiers;190001;201112
+QY;PAYS INDETERMINES ECHANGES INTRA EUROSTAT;190001;200912
+QZ;PAYS INDETERMINES ECHANGES EXTRA EUROSTAT;190001;200912
+RE;La Réunion;190001;999912
+RO;Roumanie;190001;999912
+RU;Russie (Fédération de);199206;999912
+RW;Rwanda;190001;999912
+SA;Arabie saoudite;190001;999912
+SB;Salomon (îles);190001;999912
+SC;Seychelles;190001;999912
+SD;Soudan;190001;999912
+SE;Suède;190001;999912
+SG;Singapour;190001;999912
+SH;Sainte-Hélène, Ascension et Tristan da Cunha;190001;999912
+SI;Slovénie;199206;999912
+SJ;Svalbard;199501;199612
+SK;Slovaquie;199301;999912
+SL;Sierra Leone;190001;999912
+SM;Saint-Marin;199401;999912
+SN;Sénégal;190001;999912
+SO;Somalie;190001;999912
+SR;Suriname;190001;999912
+SS;Soudan du Sud;201301;999912
+ST;Sao Tomé-et-Principe;190001;999912
+SU;Union soviétique;190001;199205
+SV;El Salvador;190001;999912
+SX;Sint-Maarten (partie néerlandaise);201301;999912
+SY;Syrienne (République arabe);190001;999912
+SZ;Swaziland;190001;999912
+TC;Turks-et-Caïcos (îles);190001;999912
+TD;Tchad;190001;999912
+TF;Terres australes françaises;200101;999912
+TG;Togo;190001;999912
+TH;Thaïlande;190001;999912
+TJ;Tadjikistan;199206;999912
+TK;Tokélaou;200101;999912
+TL;Timor-Oriental;200301;999912
+TM;Turkménistan;199206;999912
+TN;Tunisie;190001;999912
+TO;Tonga;190001;999912
+TP;Timor oriental;200101;200212
+TR;Turquie;190001;999912
+TT;Trinité-et-Tobago;190001;999912
+TV;Tuvalu;190001;999912
+TW;Taïwan;190001;999912
+TZ;Tanzanie (République unie de);190001;999912
+UA;Ukraine;199206;999912
+UG;Ouganda;190001;999912
+UM;Mineures éloignées des Etats-Unis (îles);200101;999912
+US;Etats-Unis;190001;999912
+UY;Uruguay;190001;999912
+UZ;Ouzbékistan;199206;999912
+VA;Saint-Siège (Etat de la Cité du Vatican);190001;999912
+VC;Saint-Vincent-et-les-Grenadines;190001;999912
+VE;Venezuela (République bolivarienne du);190001;999912
+VG;Vierges britanniques (îles);199501;999912
+VI;Vierges des Etats-Unis (îles);190001;999912
+VN;Viêt Nam;190001;999912
+VU;Vanuatu;190001;999912
+WF;Wallis-et-Futuna;190001;999912
+WS;Samoa;190001;999912
+XA;Océanie américaine;199201;200012
+XB;Saint Barthélémy;190001;201212
+XC;Ceuta;199901;999912
+XD;Tchécoslovaquie (ex CS);190001;199212
+XE;Saint-Eustache;190001;200512
+XF;Iles Canaries;190001;199612
+XG;Ceuta et Melilla;190001;199812
+XH;Suisse et Liechtenstein;190001;199412
+XI;Saint-Martin, partie méridionale;190001;200512
+XJ;Yougoslavie;190001;199205
+XK;Yougoslavie;199206;199212
+XK;Kosovo;200506;999912
+XL;Melilla;199901;999912
+XM;Monténégro;200506;200612
+XN;Bonaire;190001;200512
+XO;Océanie australienne;190001;200012
+XP;Cisjordanie - Bande de Gaza;199501;200012
+XQ;République d'Afrique du Sud et Namibie;190001;198912
+XR;Régions polaires;190001;200012
+XS;Saba;190001;200505
+XS;Serbie;200506;999912
+XT;Saint-Martin, partie septentrionale;190001;201312
+XU;UEBL (union économique belgo-luxembourgeoise);190001;199812
+XV;Curaçao;190001;200512
+XW;Iles vierges britanniques et Montserrat;190001;199412
+XX;Océanie américaine;190001;199112
+XY;Yémen du Nord;190001;199012
+XZ;Océanie néo zélandaise;190001;200012
+YD;Yémen du Sud;190001;199012
+YE;Yémen;199101;999912
+YT;Mayotte;190001;999912
+YU;République fédérale de Yougoslavie;199301;200312
+ZA;Afrique du Sud;199001;999912
+ZM;Zambie;190001;999912
+ZW;Zimbabwe;190001;999912
